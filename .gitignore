@@ -1,0 +1,5 @@
+*.asset
+*.dwlt
+MRTKAndHololens/Temp/
+MRTKAndHololens/Logs/
+MRTKAndHololens/Library/
